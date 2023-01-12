@@ -1,0 +1,9 @@
+h1 {
+    height: 15vh;
+    background-color: #201335;
+    color: #FFFDED;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

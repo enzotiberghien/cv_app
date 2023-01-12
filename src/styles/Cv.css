@@ -1,0 +1,27 @@
+.cv {
+    width: 70%;
+    height: fit-content;
+    background-color: white;
+    margin: 2% auto;
+    border: 3px solid #201335;
+    padding: 1%;
+    display: flex;
+    flex-direction: column;
+}
+
+.cv h2 {
+    text-align: center;
+    margin: 1% 0;
+    padding: 1%;
+    background-color: #201335;
+    color: white;
+}
+
+.cv h3 {
+    text-align: center;
+    margin: 1% 0;
+}
+
+.cv hr {
+    margin: 1% 0;
+}

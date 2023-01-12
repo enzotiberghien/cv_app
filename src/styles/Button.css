@@ -1,0 +1,21 @@
+button {
+    font-size: 1.5rem;
+    background-color: #201335;
+    color: #FFFDED;
+    margin: 1% 0;
+    padding: 1%;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.red {
+    background-color: red;
+    border: none;
+}
+
+.green {
+    background-color: green;
+    border: none;
+}
